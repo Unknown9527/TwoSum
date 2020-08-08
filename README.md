@@ -1,5 +1,5 @@
 # TwoSum
-Leetcode 32
+Leetcode 1
 
 I have to say that the algorithm of my code is not good enough, but it does work ;)
 
